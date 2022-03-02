@@ -76,3 +76,28 @@ body{
                         align-content: center;
                         padding: 4px;
                     }
+              .box2a1:hover{
+                        background-color: 	#45f310;
+                   }
+                   .box2a2:hover{
+                    background-color: 	#45f310;
+               }
+               .box2a3:hover{
+                background-color: 	#45f310;
+           }
+           .box2a4:hover{
+            background-color: 	#45f310;
+       }
+       .box2a1:active{
+        background-color: 	#c2f310;
+       }
+       .box2a2:active{
+        background-color: 	#c2f310;
+       }
+       .box2a3:active{
+        background-color: 	#c2f310;
+       }
+       .box2a4:active{
+        background-color: 	#c2f310;
+       }
+       ::selection{background-color: 	#d31460;}

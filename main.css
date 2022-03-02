@@ -45,7 +45,7 @@ body{
             
         }
         :root{
-            --text-color:#69cf15;
+            --text-color:#13e213;
             --font-font-size: 40px;
                     }
                     .box2a1{
@@ -56,48 +56,48 @@ body{
                         padding: 4px;
                     }
                     .box2a2{
-                        background-color: #1449b9;
+                        background-color: #1867c0;
                         width: 320px;  
                         height: 60px;
                         align-content: center;
                         padding: 4px;
                     }
                     .box2a3{
-                        background-color: #371ab6;
+                        background-color: #1867c0;
                         width: 320px;    
                         height: 60px;
                         align-content: center;
                         padding: 4px;
                     }
                     .box2a4{
-                        background-color: #2013db;
+                        background-color: #1867c0;
                         width: 320px;  
                         height: 60px;
                         align-content: center;
                         padding: 4px;
                     }
-              .box2a1:hover{
-                        background-color: 	#45f310;
+                    .box2a1:hover{
+                        background-color: 	#105ff3;
                    }
                    .box2a2:hover{
-                    background-color: 	#45f310;
+                    background-color: 	#105ff3;;
                }
                .box2a3:hover{
-                background-color: 	#45f310;
+                background-color: 	#105ff3;;
            }
            .box2a4:hover{
-            background-color: 	#45f310;
+            background-color: 	#105ff3;;
        }
        .box2a1:active{
-        background-color: 	#c2f310;
+        background-color: 	#10f310;
        }
        .box2a2:active{
-        background-color: 	#c2f310;
+        background-color: 	#10f310;
        }
        .box2a3:active{
-        background-color: 	#c2f310;
+        background-color: 	#10f310;
        }
        .box2a4:active{
-        background-color: 	#c2f310;
+        background-color: 	#10f310;
        }
-       ::selection{background-color: 	#d31460;}
+       ::selection{background-color: 	#000000;}

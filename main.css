@@ -5,6 +5,7 @@
     }
     .rb{
     font-size: 60px;
+            font-family: fantasy;
     text-align :center;
     padding:100px;
     -webkit-animation: animatedBackground_b 7s linear infinite alternate;
@@ -24,3 +25,8 @@
     90% {color: #ff008b}
     100% {color: #ff0000} }
 
+.box{
+    background-color: rgb(28, 37, 49);
+    width: 100%;   
+    height: 60px;
+}

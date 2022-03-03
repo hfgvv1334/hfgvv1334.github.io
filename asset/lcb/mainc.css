@@ -67,12 +67,13 @@ body{
             --clolor-2mau:linear-gradient(60deg,#107c0c,#06106b);
             --clolor-mau2:linear-gradient(75deg,#091eda,#13da0c);
             --clolor-mau3:linear-gradient(60deg,#24fa08,#08ffb5);
+            --color-mau4:linear-gradient(43deg,#272742,#1d2044);
                     }
          :root{
 
          }
        
-       ::selection{background-color: #04061f;}
+       ::selection{background-color: #d40d70;}
        .box2a1 {
            width: 30%;
            height: 800px;
@@ -83,3 +84,17 @@ body{
            margin-left: var(--margin-margin-left);
            margin-top: 40px;
        }
+       .mtitle2{
+           color: #00fff2;
+           font-size: 50px;
+           font-family:Verdana;
+       }
+       .box2a1b1{
+        background-image:var(--color-mau4);
+        width: 90%; 
+        height: 80%;
+        border-radius: 10px;
+        border-color: #00ff88 ;
+        margin-left: 5% ;
+       }
+ 

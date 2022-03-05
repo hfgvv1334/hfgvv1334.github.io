@@ -1,10 +1,13 @@
 .box1{
-    background-image:linear-gradient(10deg,#08235f,#19077c);
+    background-image:linear-gradient(10deg,#94ce0c,#df9711);
     width: 100%;   
     height: 60px;
 }
 body{
-    background-color:#04061f ;}
+    background-image: url(https://genk.mediacdn.vn/2019/8/16/photo-1-15659452940921728283136.jpg);
+    background-repeat: no-repeat;
+background-size: cover;
+}
     #title{
         font-family: fantasy;
         
@@ -31,16 +34,19 @@ body{
         90% {color: #ff008b}
         100% {color: #ff0000} }
  .box2{
-            background-image:linear-gradient(0,#0a253b,#08093a);
-            width: 100%;   
+            background-image:linear-gradient(0,#86d408,#e28d0c);
+            width: 50%;   
             height: 800px;
             align-content: center;
+border-radius: 10px;
+border-color: #00ff2e;
+margin-left: 25%;
         }
         .mtitle1{
             text-align: center;
             font-size: var(--font-font-size);
             font-family: 'Times New Roman', Times, serif;
-  
+            Text-decoration: none;
             padding:0;
             -webkit-animation: animatedBackground_a 10s linear infinite alternate;
             
@@ -62,11 +68,11 @@ body{
         }
         :root{
             --text-color:#13e213;
-            --font-font-size: 250%;
+            --font-font-size: 150%;
             --margin-margin-left:35% ;
-            --clolor-2mau:linear-gradient(60deg,#107c0c,#06106b);
-            --clolor-mau2:linear-gradient(60deg,#091eda,#13da0c);
-            --clolor-mau3:linear-gradient(60deg,#24fa08,#08ffb5);
+            --clolor-2mau:linear-gradient(60deg,#7c620c,#2e6b06);
+            --clolor-mau2:linear-gradient(60deg,#6eda09,#dabb0c);
+            --clolor-mau3:linear-gradient(60deg,#24fa08,#fffb08);
                     }
                     .box2a1{
                         background-image: var(--clolor-2mau);
@@ -83,8 +89,8 @@ body{
 justify-content: center;
 align-items: center;
 flex-direction: column;
-                       margin-top: 50px;
-                        margin-bottom: 80px ;
+                       margin-top: 20px;
+                        margin-bottom: 40px ;
                         margin-left: var(--margin-margin-left);
                         
 
@@ -99,8 +105,8 @@ flex-direction: column;
                         border-right-width: 2px;
                         border-color: #106fc9;
                         border-style: solid;
-                        margin-top: 50px;
-                        margin-bottom: 80px ;
+                        margin-top: 20px;
+                        margin-bottom: 40px ;
                         margin-left: var(--margin-margin-left);
                         padding: 4px;
                         display: flex;
@@ -123,8 +129,8 @@ flex-direction: column;
                         border-right-width: 2px;
                         border-color: #106fc9;
                         border-style: solid;
-                        margin-top: 50px;
-                        margin-bottom: 80px ;
+                        margin-top: 20px;
+                        margin-bottom: 40px ;
                         margin-left: var(--margin-margin-left);}
                     .box2a4{
                         background-image: var(--clolor-2mau);
@@ -142,7 +148,7 @@ flex-direction: column;
     border-color: #106fc9;
     border-style: solid;
     margin-top: 50px;
-                        margin-bottom: 80px ;
+                        margin-bottom: 40px ;
                         margin-left: var(--margin-margin-left);
     
                     }
@@ -169,9 +175,40 @@ flex-direction: column;
        .box2a4:active{
         background-image: var(--clolor-mau3);
        }
-       ::selection{background-color: #04061f;}
+       ::selection{background-color: #0a7a46;}
+       .box2a5{
+           background-image: linear-gradient(45deg,#24fa08,#08ff8c);
+          width: 90%;
+          height: 40%;
+          padding: 0;
+          border-color: #04061f;
+          border-top-width: 2px;
+          border-left-width: 2px;
+          border-right-width: 2px;
+          border-style: solid;
+          margin-left: 5%;
+
+       }
+       .mtitle2{
+           color: #0d1b5a;
+           text-align: center;
+           font-size: var(--font-font-size);
+           font-family: 'Times New Roman', Times, serif;
  
-    
-
-    
-
+           padding:0;
+       }
+       .box2a5b1{
+        background-image: linear-gradient(45deg,#00fa92,#08ffea);
+        width: 40%;
+        height: 10%;
+        border-color: #04061f;
+        border-top-width: 2px;
+        border-left-width: 2px;
+        border-right-width: 2px;
+        border-style: solid;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+       }
+ 
